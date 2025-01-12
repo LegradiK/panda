@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/kaho/GarminIQ/splash/panda/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="1" lineNum="26" parent="globals" pc="268435460" symbol="getApp"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="1" lineNum="27" parent="globals" pc="268435470" symbol="getApp"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="2" lineNum="5" parent="globals/pandaApp" pc="268435486" symbol="&lt;init&gt;"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/bin/gen/006-B3076-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc" id="4" lineNum="4" parent="globals/pandaDelegate" pc="268435529" symbol="&lt;init&gt;"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="5" lineNum="4" parent="globals/pandaView" pc="268435548" symbol="&lt;init&gt;"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="6" lineNum="12" parent="globals/pandaApp" pc="268435567" symbol="onStart"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="7" lineNum="20" parent="globals/pandaApp" pc="268435570" symbol="getInitialView"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="7" lineNum="21" parent="globals/pandaApp" pc="268435572" symbol="getInitialView"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="8" lineNum="7" parent="globals/pandaApp" pc="268435647" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="8" lineNum="8" parent="globals/pandaApp" pc="268435649" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaApp.mc" id="9" lineNum="16" parent="globals/pandaApp" pc="268435668" symbol="onStop"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc" id="10" lineNum="6" parent="globals/pandaDelegate" pc="268435671" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc" id="10" lineNum="7" parent="globals/pandaDelegate" pc="268435673" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="12" lineNum="11" parent="globals/pandaView" pc="268435692" symbol="onLayout"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="12" lineNum="12" parent="globals/pandaView" pc="268435694" symbol="onLayout"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="13" lineNum="6" parent="globals/pandaView" pc="268435736" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="13" lineNum="7" parent="globals/pandaView" pc="268435738" symbol="initialize"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="15" lineNum="22" parent="globals/pandaView" pc="268435757" symbol="onUpdate"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/source/pandaView.mc" id="15" lineNum="24" parent="globals/pandaView" pc="268435759" symbol="onUpdate"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/bin/gen/006-B3076-00/source/Rez.mcgen" id="16" lineNum="14" parent="globals/Rez/Layouts" pc="268435780" symbol="MainLayout"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/bin/gen/006-B3076-00/source/Rez.mcgen" id="16" lineNum="15" parent="globals/Rez/Layouts" pc="268435792" symbol="MainLayout"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/bin/gen/006-B3076-00/source/Rez.mcgen" id="16" lineNum="16" parent="globals/Rez/Layouts" pc="268435897" symbol="MainLayout"/>
+        <entry filename="/home/kaho/GarminIQ/splash/panda/bin/gen/006-B3076-00/source/Rez.mcgen" id="16" lineNum="18" parent="globals/Rez/Layouts" pc="268435949" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="12" method="true" symbol="MainLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8" object="true" symbol="pandaView"/>
+        <entry field="true" id="13" symbol="AppName"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="7" object="true" symbol="pandaDelegate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="11" symbol="id_panda"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="10" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="6" object="true" symbol="pandaApp"/>
+        <entry id="9" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435735" name="dc" stackId="1" startPc="268435692"/>
+        <entry arg="true" endPc="268435779" name="dc" stackId="1" startPc="268435757"/>
+        <entry arg="true" endPc="268435965" name="dc" stackId="1" startPc="268435780"/>
+        <entry endPc="268435965" name="rez_cmp_local_bitmap_id_panda" stackId="2" startPc="268435792"/>
+    </localVars>
+    <deviceInfo partNumber="006-B3076-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_panda"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="63" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/pandaApp" offset="142" parentId="globals" symbolId="pandaApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="213" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/pandaDelegate" offset="268" parentId="globals" symbolId="pandaDelegate" type="class"/>
+        <dataEntry label="globals/pandaView" offset="315" parentId="globals" symbolId="pandaView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="394" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="441" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="480" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="pandaApp" startPc="268435486">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435528" name="&lt;init&gt;" parent="Rez" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435547" name="&lt;init&gt;" parent="pandaDelegate" startPc="268435529">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435566" name="&lt;init&gt;" parent="pandaView" startPc="268435548">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435569" name="onStart" parent="pandaApp" startPc="268435567">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435646" name="getInitialView" parent="pandaApp" startPc="268435570">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435667" name="initialize" parent="pandaApp" startPc="268435647">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435670" name="onStop" parent="pandaApp" startPc="268435668">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435691" name="initialize" parent="pandaDelegate" startPc="268435671">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="pandaView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435735" name="onLayout" parent="pandaView" startPc="268435692">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435756" name="initialize" parent="pandaView" startPc="268435736">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="pandaView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435779" name="onUpdate" parent="pandaView" startPc="268435757">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435965" name="MainLayout" parent="Layouts" startPc="268435780">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

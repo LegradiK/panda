@@ -1,0 +1,26 @@
+[ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 4; ]
+class pandaDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 6; ]
+    function initialize() as Void {
+_home_kaho_GarminIQ_splash_panda_source_pandaDelegate_mc_6_26_8_4_start:
+[ "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc" 7 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_home_kaho_GarminIQ_splash_panda_source_pandaDelegate_mc_6_26_8_4_stop:
+    }
+}
+[ @file = "/home/kaho/GarminIQ/splash/panda/source/pandaDelegate.mc"; @line = 1; ]
+<init> {
+}
